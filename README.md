@@ -2,7 +2,7 @@ how to setup this project
 npm install 
 npm run dev 
 install node if not installed
-calculator-r8f2fcttf-nikobellic00.vercel.app
+https://calculator-r8f2fcttf-nikobellic00.vercel.app/
 
 
 
