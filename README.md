@@ -2,8 +2,7 @@ how to setup this project
 npm install 
 npm run dev 
 install node if not installed
-
-
+live link - calculator-r8f2fcttf-nikobellic00.vercel.app
 
 
 
